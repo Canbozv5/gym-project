@@ -8,7 +8,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş modern ve duyarl
 
 ## Web Sitesinin Ufak Bir Önizlemesi
 
-![Web sitesinin önizlemesi](resimler/web-sitesi-preview.png)
+![Web sitesinin önizlemesi](Resimler/web-sitesi-preview.png)
 
 ---
 
