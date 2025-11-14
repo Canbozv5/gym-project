@@ -1,4 +1,4 @@
-# POWERFULL Gym (Patika PROJE-1) 🏋️‍♀️
+# POWERFULL Gym Project
 
 Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş modern ve duyarlı bir fitness merkezi ve spor salonu tanıtım sayfasıdır. Kullanıcılara etkileşimli bir deneyim sunmak amacıyla dinamik özellikler eklenmiştir.
 
